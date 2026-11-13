@@ -1,0 +1,12 @@
+# Arquivos gerados na compilação (C)
+*.o
+*.obj
+*.gch
+*.exe
+*.out
+a.out
+
+# IDE / sistema
+.vscode/
+.idea/
+.DS_Store
